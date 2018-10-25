@@ -30,6 +30,13 @@
         <activity android:name=".P009SharedPreferences"></activity>
 
         <activity android:name=".P010BitmapDrawable"></activity>
+        <activity android:name=".P011ResDrawableXml"></activity>
+        <activity android:name=".P012CanvasRectPaint"></activity>
+        <activity android:name=".P013TabHostTabSpec"></activity>
+        <activity android:name=".P014FileOutputStream"></activity>
+        <activity android:name=".P015FileInputStream"></activity>
+        <activity android:name=".P016Dialog"></activity>
+        <activity android:name=".P017SQLiteDatabaseClass"></activity>
 
 
     </application>

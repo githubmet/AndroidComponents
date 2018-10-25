@@ -18,4 +18,19 @@
     <string name="text2">text 2</string>
     <string name="save">Save</string>
     <string name="load">Load</string>
+    <string name="textview_one">TextView One</string>
+    <string name="textview_two">TextView Two</string>
+    <string name="textview_three">TextView Three</string>
+    <string name="dowloading">Dowloading</string>
+    <string name="information">Information</string>
+    <string name="save_name_and_surname_to_database">Save name and surname to database</string>
+    <string name="get_all_info_from_database">Get all info from database</string>
+    <string name="id_number">Id number</string>
+    <string name="get_info_by_id">Get info by Id</string>
+    <string name="delete_info_by_id">Delete info by id</string>
+    <string name="name">Name</string>
+    <string name="edit_name_and_surname_by_id">Edit name and surname by Id</string>
+    <string name="loaded">Loaded</string>
+    <string name="ok">OK</string>
+
 </resources>

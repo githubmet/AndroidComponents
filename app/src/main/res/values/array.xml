@@ -12,6 +12,13 @@
         <item>P008GestureDedectorCompat</item>
         <item>P009SharedPreferences</item>
         <item>P010BitmapDrawable</item>
+        <item>P011ResDrawableXml</item>
+        <item>P012CanvasRectPaint</item>
+        <item>P013TabHostTabSpec</item>
+        <item>P014FileOutputStream</item>
+        <item>P016Dialog</item>
+        <item>P017SQLiteDatabaseClass</item>
+
 
     </string-array>
 
