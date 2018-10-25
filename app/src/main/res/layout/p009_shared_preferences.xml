@@ -3,38 +3,30 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextNameP009"
+        android:hint="@string/type_your_name"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextSurnameP009"
+        android:hint="@string/type_your_surname"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/up"
-        android:id="@+id/buttonUpP002"/>
+        android:text="@string/save"
+        android:id="@+id/buttonSaveP009"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/down"
-        android:id="@+id/buttonDownP002"/>
-    <Button
+        android:text="@string/load"
+        android:id="@+id/buttonLoadP009"/>
+    <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/left"
-        android:id="@+id/buttonLeftP002"/>
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/right"
-        android:id="@+id/buttonRightP002"/>
-
-    <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:id="@+id/relativeLayoutP002">
-
-<TextView
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:id="@+id/textViewP002"
-    android:text="@string/text"/>
-
-    </RelativeLayout>
+        android:text="@string/text"
+        android:id="@+id/textViewP009"/>
 
 </LinearLayout>

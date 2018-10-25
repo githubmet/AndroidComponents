@@ -4,6 +4,39 @@
     <string-array name="activity_names">
         <item>P001Intent</item>
         <item>P002TextPlay</item>
+        <item>P003MenuItem</item>
+        <item>P004PreferenceActivity</item>
+        <item>P005GetPrefrenceInfo</item>
+        <item>P006CreateUserFaceWithJava</item>
+        <item>P007ListViewCustomRow</item>
+        <item>P008GestureDedectorCompat</item>
+        <item>P009SharedPreferences</item>
+        <item>P010BitmapDrawable</item>
+
+    </string-array>
+
+    <string-array name="activity_names_p004">
+        <item>Activity One</item>
+        <item>Activity Two</item>
+        <item>Activity Three</item>
+    </string-array>
+    <string-array name="activity_index_p004">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="activity_name_P007">
+        <item>activity 1</item>
+        <item>activity 2</item>
+        <item>activity 3</item>
+        <item>activity 4</item>
+        <item>activity 5</item>
+        <item>activity 6</item>
+        <item>activity 7</item>
+        <item>activity 8</item>
+        <item>activity 9</item>
+        <item>activity 10</item>
     </string-array>
 
 </resources>

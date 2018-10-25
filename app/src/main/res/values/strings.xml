@@ -7,4 +7,15 @@
     <string name="left">Left</string>
     <string name="right">Right</string>
     <string name="text">text</string>
+    <string name="user_name">User Name</string>
+    <string name="type_your_name">Please, type your name</string>
+    <string name="user_surname">User Surname</string>
+    <string name="type_your_surname">Please, type your surname</string>
+    <string name="get_preference_name">Get preference name</string>
+    <string name="get_preference_surname">Get preference surname</string>
+    <string name="get_preference_activity">Get activity name</string>
+    <string name="select_activity_index">Please, select your activity index</string>
+    <string name="text2">text 2</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
 </resources>

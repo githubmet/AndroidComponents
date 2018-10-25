@@ -21,6 +21,17 @@
         <activity android:name=".P001IntentYakala"></activity>
         <activity android:name=".P002TextPlay"></activity>
 
+        <activity android:name=".P003MenuItem"></activity>
+        <activity android:name=".P004PreferenceActivity"></activity>
+        <activity android:name=".P005GetPrefrenceInfo"></activity>
+        <activity android:name=".P006CreateUserFaceWithJava"></activity>
+        <activity android:name=".P007ListViewCustomRow"></activity>
+        <activity android:name=".P008GestureDedectorCompat"></activity>
+        <activity android:name=".P009SharedPreferences"></activity>
+
+        <activity android:name=".P010BitmapDrawable"></activity>
+
+
     </application>
 
 </manifest>

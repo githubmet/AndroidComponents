@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference
+        android:key="editTextPreferenceNameP004"
+        android:title="@string/user_name"
+        android:summary="@string/type_your_name"/>
+    <EditTextPreference
+        android:key="editTextPreferenceSurnameP004"
+        android:title="@string/user_surname"
+        android:summary="@string/type_your_surname"/>
+    <ListPreference
+        android:key="listPreferenceActivityP004"
+        android:title="Activity Index"
+        android:summary="@string/select_activity_index"
+        android:entries="@array/activity_index_p004"
+        android:entryValues="@array/activity_names_p004"/>
+
+
+
+</PreferenceScreen>
