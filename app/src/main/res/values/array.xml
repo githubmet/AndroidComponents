@@ -18,8 +18,16 @@
         <item>P014FileOutputStream</item>
         <item>P016Dialog</item>
         <item>P017SQLiteDatabaseClass</item>
+        <item>P018LinearLayout</item>
+        <item>P019ContextMenu</item>
+        <item>P020AlertDialogProf</item>
 
+    </string-array>
 
+    <string-array name="color_names_p020">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
     </string-array>
 
     <string-array name="activity_names_p004">

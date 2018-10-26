@@ -32,5 +32,11 @@
     <string name="edit_name_and_surname_by_id">Edit name and surname by Id</string>
     <string name="loaded">Loaded</string>
     <string name="ok">OK</string>
+    <string name="to_see_context_menu_please_hold_on_this_text">to see context menu please hold on this text</string>
+    <string name="are_you_ok">Are you ok?</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_or_ok">Cancel or Ok</string>
+    <string name="select_one_item">Select One Item</string>
+    <string name="select_color">Select Color</string>
 
 </resources>
