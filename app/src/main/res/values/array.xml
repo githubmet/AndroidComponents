@@ -14,13 +14,17 @@
         <item>P010BitmapDrawable</item>
         <item>P011ResDrawableXml</item>
         <item>P012CanvasRectPaint</item>
-        <item>P013TabHostTabSpec</item>
+        <item>P013TabHostTabSpecXXXX</item>
         <item>P014FileOutputStream</item>
         <item>P016Dialog</item>
         <item>P017SQLiteDatabaseClass</item>
         <item>P018LinearLayout</item>
         <item>P019ContextMenu</item>
         <item>P020AlertDialogProf</item>
+        <item>P021ListHashMap</item>
+        <item>P022onConfigurationChangedXXXX</item>
+        <item>P023AddTextChangeListener</item>
+        <item>P024SendParcelableData</item>
 
     </string-array>
 

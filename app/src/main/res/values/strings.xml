@@ -38,5 +38,13 @@
     <string name="cancel_or_ok">Cancel or Ok</string>
     <string name="select_one_item">Select One Item</string>
     <string name="select_color">Select Color</string>
+    <string name="sayac">sayac =</string>
+    <string name="have_to_type_cast">You have to type cast</string>
+    <string name="do_not_need_to_type_cast">Do not need to type cast</string>
+    <string name="map">Map</string>
+    <string name="portrait">Portrait</string>
+    <string name="lanscape">Landscape</string>
+    <string name="before_text_changed">Before Text Changed</string>
+    <string name="after_text_changed">After Text Changed</string>
 
 </resources>

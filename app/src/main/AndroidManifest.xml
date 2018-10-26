@@ -40,7 +40,13 @@
         <activity android:name=".P018LinearLayout"></activity>
         <activity android:name=".P019ContextMenu"></activity>
         <activity android:name=".P020AlertDialogProf"></activity>
-
+        <activity android:name=".P021ListHashMap"></activity>
+        <activity android:name=".P022onConfigurationChanged"
+            android:configChanges="orientation|screenSize"
+            ></activity>
+        <activity android:name=".P023AddTextChangeListener"></activity>
+        <activity android:name=".P024SendParcelableData"></activity>
+        <activity android:name=".P024LoadParcelableData"></activity>
 
     </application>
 
