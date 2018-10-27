@@ -31,7 +31,31 @@
         <item>P028SendBroadcastXXXX</item>
         <item>P029MenuItemAlways</item>
         <item>P030ViewAnimator</item>
+        <item>P031RecyclerListView</item>
+        <item>P032CardView</item>
+        <item>P033ViewPager</item>
 
+    </string-array>
+
+    <string-array name="countries_p031">
+        <item>Turkey</item>
+        <item>Germany</item>
+        <item>Italy</item>
+        <item>Spain</item>
+        <item>Holland</item>
+        <item>USA</item>
+        <item>UK</item>
+        <item>Russia</item>
+    </string-array>
+    <string-array name="cities_p031">
+        <item>Ankara</item>
+        <item>Berlin</item>
+        <item>Roma</item>
+        <item>Madrid</item>
+        <item>Amsterdam</item>
+        <item>Washington</item>
+        <item>London</item>
+        <item>Mosscow</item>
     </string-array>
 
     <string-array name="color_names_p020">

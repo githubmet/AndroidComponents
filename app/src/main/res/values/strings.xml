@@ -50,5 +50,17 @@
     <string name="first_2000">First 2000 milliseconds are done</string>
     <string name="second_2000">Second 2000 milliseconds are done</string>
     <string name="third_2000">Third 2000 milliseconds are done</string>
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="uzun_text"> Android Developer
+     Android Developer
+     Android Developer
+     Android Developer
+     Android Developer
+     Android Developer
+     Android Developer
+     Android Developer
+     Android Developer</string>
 
 </resources>
