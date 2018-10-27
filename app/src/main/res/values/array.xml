@@ -25,6 +25,12 @@
         <item>P022onConfigurationChangedXXXX</item>
         <item>P023AddTextChangeListener</item>
         <item>P024SendParcelableData</item>
+        <item>P025onConfigurationChangedXXXX</item>
+        <item>P026DrawableLayerList</item>
+        <item>P027AsyncTaskClass</item>
+        <item>P028SendBroadcastXXXX</item>
+        <item>P029MenuItemAlways</item>
+        <item>P030ViewAnimator</item>
 
     </string-array>
 

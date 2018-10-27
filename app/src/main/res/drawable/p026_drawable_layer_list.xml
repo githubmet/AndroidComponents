@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <bitmap android:src="@drawable/icon_pen"
+            android:gravity="center"></bitmap>
+    </item >
+    <item android:top= "20dp" android:left="20dp">
+        <bitmap android:src="@drawable/icon_pen2"
+            android:gravity="center"></bitmap>
+    </item>
+    <item android:top="30dp" android:left="30dp">
+        <bitmap android:src="@drawable/icon_pen3"
+            android:gravity="center"></bitmap>
+    </item>
+
+</layer-list>

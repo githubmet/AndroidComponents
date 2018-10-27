@@ -15,7 +15,14 @@
         <item android:title="ColorThree"
             android:id="@+id/item3P003"
             android:orderInCategory="2"
-            app:showAsAction="never"/>
+            app:showAsAction="never">
+            <menu>
+                <item android:title="ColorThree One"></item>
+                <item android:title="ColorThree Two"></item>
+                <item android:title="ColorThree Three"></item>
+            </menu>
+
+        </item>
     </group>
 
 </menu>

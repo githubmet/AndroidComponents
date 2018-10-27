@@ -47,6 +47,25 @@
         <activity android:name=".P023AddTextChangeListener"></activity>
         <activity android:name=".P024SendParcelableData"></activity>
         <activity android:name=".P024LoadParcelableData"></activity>
+        <activity android:name=".P025onConfigurationChanged"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            ></activity>
+
+        <activity android:name=".P026DrawableLayerList"></activity>
+        <activity android:name=".P027AsyncTaskClass"></activity>
+        <activity android:name=".P028SendBroadcast"></activity>
+        <receiver android:name=".reciever.P028GetBroadcastReciever">
+            <intent-filter>
+                <action android:name="com.example.user.androidcomponent.DEPREM_YAYINI">
+                </action>
+            </intent-filter>
+        </receiver>
+
+        <activity android:name=".P029MenuItemAlways"></activity>
+        <activity android:name=".P030ViewAnimator"></activity>
+
+
+
 
     </application>
 

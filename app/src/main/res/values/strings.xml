@@ -46,5 +46,9 @@
     <string name="lanscape">Landscape</string>
     <string name="before_text_changed">Before Text Changed</string>
     <string name="after_text_changed">After Text Changed</string>
+    <string name="onpreexecute">onPreExecute is running</string>
+    <string name="first_2000">First 2000 milliseconds are done</string>
+    <string name="second_2000">Second 2000 milliseconds are done</string>
+    <string name="third_2000">Third 2000 milliseconds are done</string>
 
 </resources>
