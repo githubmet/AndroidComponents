@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/fragmentTopP035"
+        android:layout_alignParentTop="true"
+        android:name="com.example.user.androidcomponent.fragment.P035FragmentTop"
+        tools:layout="@layout/p035_fragment_top"/>
+
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/fragmentBottomP035"
+        android:layout_alignParentBottom="true"
+        tools:layout="@layout/p035_fragment_bottom"
+        android:name="com.example.user.androidcomponent.fragment.P035FragmentBottom"/>
+
+</RelativeLayout>

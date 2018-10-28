@@ -14,7 +14,7 @@
         <item>P010BitmapDrawable</item>
         <item>P011ResDrawableXml</item>
         <item>P012CanvasRectPaint</item>
-        <item>P013TabHostTabSpecXXXX</item>
+        <item>P013TabHostTabSpec</item>
         <item>P014FileOutputStream</item>
         <item>P016Dialog</item>
         <item>P017SQLiteDatabaseClass</item>
@@ -34,7 +34,28 @@
         <item>P031RecyclerListView</item>
         <item>P032CardView</item>
         <item>P033ViewPager</item>
+        <item>P034CoordinatorLayout</item>
+        <item>P035Fragment</item>
+        <item>P036DrawerLayout</item>
+        <item>P037DrawerLayoutToggle</item>
+        <item>P038PagerTabStrip</item>
+        <item>P039EditTextChangedListView</item>
 
+    </string-array>
+
+    <string-array name="string_array_p039">
+        <item>aabaivity</item>
+        <item>aabaivity</item>
+        <item>aabaivity</item>
+        <item>badcivity</item>
+        <item>badcivity</item>
+        <item>badcivity</item>
+        <item>caabivity</item>
+        <item>caabivity</item>
+        <item>caabivity</item>
+        <item>dacdivity</item>
+        <item>dacdivity</item>
+        <item>dacdivity</item>
     </string-array>
 
     <string-array name="countries_p031">

@@ -62,5 +62,10 @@
      Android Developer
      Android Developer
      Android Developer</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="helloTek">hello</string>
+    <string name="from">from</string>
+    <string name="pagertabstrip">pagerTabStrip</string>
 
 </resources>

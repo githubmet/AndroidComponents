@@ -68,6 +68,16 @@
         <activity android:name=".P033ViewPager"></activity>
 
 
+        <activity android:name=".P034CoordinatorLayout"
+            android:theme="@style/Theme.AppCompat.NoActionBar"></activity>
+        <activity android:name=".P035Fragment"></activity>
+        <activity android:name=".P036DrawerLayout"></activity>
+        <activity android:name=".P037DrawerLayoutToggle"></activity>
+        <activity android:name=".P038PagerTabStrip"></activity>
+        <activity android:name=".P039EditTextChangedListView"></activity>
+
+
+
 
 
     </application>

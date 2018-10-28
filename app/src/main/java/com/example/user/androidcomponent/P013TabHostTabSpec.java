@@ -9,7 +9,7 @@ public class P013TabHostTabSpec extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+        setContentView(R.layout.p013_tabhost_tabspec);
 
         TabHost tabHostP013= (TabHost) findViewById(R.id.tabHostP013);
         tabHostP013.setup();
