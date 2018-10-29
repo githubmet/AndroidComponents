@@ -22,13 +22,17 @@
         <item>P019ContextMenu</item>
         <item>P020AlertDialogProf</item>
         <item>P021ListHashMap</item>
+
         <item>P022onConfigurationChangedXXXX</item>
+
         <item>P023AddTextChangeListener</item>
         <item>P024SendParcelableData</item>
-        <item>P025onConfigurationChangedXXXX</item>
+        <item>P025DrawerLayout</item>
         <item>P026DrawableLayerList</item>
         <item>P027AsyncTaskClass</item>
+
         <item>P028SendBroadcastXXXX</item>
+
         <item>P029MenuItemAlways</item>
         <item>P030ViewAnimator</item>
         <item>P031RecyclerListView</item>
@@ -40,6 +44,8 @@
         <item>P037DrawerLayoutToggle</item>
         <item>P038PagerTabStrip</item>
         <item>P039EditTextChangedListView</item>
+        <item>P040Toolbar</item>
+
 
     </string-array>
 

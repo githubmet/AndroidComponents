@@ -47,10 +47,8 @@
         <activity android:name=".P023AddTextChangeListener"></activity>
         <activity android:name=".P024SendParcelableData"></activity>
         <activity android:name=".P024LoadParcelableData"></activity>
-        <activity android:name=".P025onConfigurationChanged"
-            android:configChanges="keyboardHidden|orientation|screenSize"
-            ></activity>
-
+        <activity android:name=".P025DrawerLayout"
+            android:theme="@style/Theme.Design.NoActionBar"></activity>
         <activity android:name=".P026DrawableLayerList"></activity>
         <activity android:name=".P027AsyncTaskClass"></activity>
         <activity android:name=".P028SendBroadcast"></activity>
@@ -76,8 +74,9 @@
         <activity android:name=".P038PagerTabStrip"></activity>
         <activity android:name=".P039EditTextChangedListView"></activity>
 
-
-
+        <activity android:name=".P040Toolbar"
+            android:theme="@style/Theme.Design.NoActionBar"
+            android:parentActivityName=".P000Menu"></activity>
 
 
     </application>
